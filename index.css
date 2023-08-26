@@ -1,0 +1,162 @@
+*{
+    /* border: 1px solid red; */
+}
+.start{
+    border: 1px solid lightgray;
+    text-align: start;
+    margin-left: 700px;
+    margin-right: 700px;
+    margin-top: 200px;
+    padding-bottom: 50px;
+    padding-left: 25px;
+}
+
+input{
+    width: 440px;
+}
+
+button.continue{
+    margin-top: 25px;
+    width: 450px;
+    background-color: rgb(244, 196, 108);
+    border-radius: 3px;
+}
+
+.nta{
+    text-align: center;
+    margin-top: -10px;
+    color: rgb(164, 162, 162);
+    margin-bottom: 0px;
+}
+
+.line {
+    width: 155px;
+    height: 0;
+    border: 1px solid rgb(164, 162, 162);
+    margin: 28px;
+    display: inline-block;
+}
+
+.line-container{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.my-footer{
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 700px;
+    padding-right: 700px;
+    
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.create{
+    /* margin-top: -10px; */
+    width: 500px;
+    padding-top: -25px;
+    margin-bottom: 100px;
+
+}
+
+.copy {
+    display: flex;
+    justify-content: center;
+}
+
+
+h1{
+   margin-bottom: 5px; 
+}
+.email-box{
+    /* padding-top: -5px; */
+}
+
+.password-box{
+    padding-top: 10px;
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    border-top: 1px solid lightgray;
+    padding-bottom: -10px;
+}
+.footer-text{
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* div.box1 {
+    /* text-align: start; */
+    /* border: 1px solid lightgray;
+    padding: 10px;
+    margin: 0px; */ */
+    
+}
+
+
+
+
+
+/* form{
+    /* text-align: start;
+    border:1px solid lightgray;
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-right: 850px;
+    padding-left: 25px ; */ */
+
+}
+
+/* div {
+    border: 1px solid red;
+    text-align: center;
+    padding-top: -25px; */
+}
+
